@@ -1,6 +1,8 @@
 <div align="center">
 
-### Hello there 👋 
+### Hello there 👋 የተንቢ
+###### Am an aspiring engineer, researcher and project lead who worked in building software in various domains from healthcare and bioinformatics to social media, building tools for analyzing genomic and clinical data to working on tackling misinformation and hate-speech in social media using digital tools.
+
 ##### Other repos/contribs at ![marvinko](https://github.com/marvinko) @ ![Adotsense](https://github.com/adotsense)
 ![](https://komarev.com/ghpvc/?username=marvinkobit&color=green)
 
